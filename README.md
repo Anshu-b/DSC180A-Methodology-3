@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
 
-Ansh Bhatnagar
+Issac Roy
